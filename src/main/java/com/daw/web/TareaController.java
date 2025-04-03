@@ -1,4 +1,4 @@
-package com.daw.web.controllers;
+package com.daw.web;
 
 
 import java.time.LocalDate;
